@@ -1,0 +1,102 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john.doe@example.com",
+      "date": "2024-03-15",
+      "salary": 50000,
+      "phone": "9876543210",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "pincode": "400001"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "email": "jane.smith@example.com",
+      "date": "2024-2-12",
+      "salary": 60000,
+      "phone": "9123456789",
+      "country": "USA",
+      "state": "California",
+      "city": "Los Angeles",
+      "pincode": "90001"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "firstname": "Alice",
+      "lastname": "Johnson",
+      "email": "alice.johnson@example.com",
+      "date": "2024-04-13",
+      "salary": 55000,
+      "phone": "8234567890",
+      "country": "India",
+      "state": "Karnataka",
+      "city": "Bangalore",
+      "pincode": "560001"
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "firstname": "Bob",
+      "lastname": "Brown",
+      "email": "bob.brown@example.com",
+      "date": "2024-05-30",
+      "salary": 58000,
+      "phone": "7890123456",
+      "country": "Australia",
+      "state": "New South Wales",
+      "city": "Sydney",
+      "pincode": "2000"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Green",
+      "firstname": "Charlie",
+      "lastname": "Green",
+      "email": "charlie.green@example.com",
+      "date": "2024-08-21",
+      "salary": 57000,
+      "phone": "9812345678",
+      "country": "India",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "pincode": "110001"
+    },
+    {
+      "id": "6",
+      "name": "Emily Davis",
+      "firstname": "Emily",
+      "lastname": "Davis",
+      "email": "emily.davis@example.com",
+      "date": "2024-05-12",
+      "salary": 62000,
+      "phone": "9087654321",
+      "country": "Canada",
+      "state": "Ontario",
+      "city": "Toronto",
+      "pincode": "M5H 2N2"
+    },
+    {
+      "id": "7",
+      "name": "Michael Wilson",
+      "firstname": "Michael",
+      "lastname": "Wilson",
+      "email": "michael.wilson@example.com",
+      "date": "2024-01-20",
+      "salary": 59000,
+      "phone": "9988776655",
+      "country": "UK",
+      "state": "England",
+      "city": "London",
+      "pincode": "SW1A 1AA"
+    }
+  ]
+}
